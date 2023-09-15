@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box{
+    background-color: orange;
+    border-radius:10px;
+    padding: 30px;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    justify-content: center;
+    display: flex;
+}
+
+
